@@ -1,0 +1,15 @@
+Package: dmdl
+Title: Duration gap analysis
+Version: 0.1.0
+Author: Tetteng Gaduel <tettet@usi.ch>, Phoebe Staenz <phoebe.staenz@usi.ch>
+Maintainer: Tetteng Gaduel <tettet@usi.ch>, Phoebe Staenz <phoebe.staenz@usi.ch>
+Description: The package aids in the measurement and observation of interest rate risk on the net worth of a financial intermediator.
+Depends: R (>= 3.5)
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
